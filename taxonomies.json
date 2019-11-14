@@ -1,0 +1,49 @@
+{
+      "id": 1,
+      "name": "Groceries",
+      "taxons": [
+          {
+            "id": 2,
+            "name": "Food",
+            "pretty_name": "Groceries -> Food",
+            "permalink": "groceries/food",
+            "parent_id": 1,
+            "taxonomy_id": 1,
+            "meta_title": "",
+            "meta_description": ""
+          },
+          {
+            "id": 3,
+            "name": "Fashion",
+            "pretty_name": "Groceries -> fahion",
+            "permalink": "groceries/fashion",
+            "parent_id": 1,
+            "taxonomy_id": 1,
+            "meta_title": "",
+            "meta_description": ""
+          },
+          {
+            "id": 4,
+            "name": "Cookware",
+            "pretty_name": "Groceries -> Cookware",
+            "permalink": "groceries/cookware",
+            "parent_id": 1,
+            "taxonomy_id": 1,
+            "meta_title": "",
+            "meta_description": ""
+          },
+          {
+            "id": 5,
+            "name": "Hardware",
+            "pretty_name": "Groceries -> Hardware",
+            "permalink": "groceries/hardware",
+            "parent_id": 1,
+            "taxonomy_id": 1,
+            "meta_title": "",
+            "meta_description": ""
+          }
+
+        ]
+      }
+
+
